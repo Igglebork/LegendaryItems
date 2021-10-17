@@ -1,0 +1,1408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="3" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="he5a01f23g01e3g4c0fg94eeg28a62ae7f5fc" version="1" />
+					<attribute id="DisplayName" type="28" handle="h47e78c13gfe4dg49a5gb448g667ece0dd387" version="1" />
+					<attribute id="CanBePickedUp" type="19" value="True" />					
+					<attribute id="Flag" type="32" value="0" />
+					<attribute id="InventoryType" type="1" value="24" />
+					<attribute id="Icon" type="22" value="Item_LOOT_GEN_Backpack_C_Posed_A" />					
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="2e55ef57-e7c2-4f7f-9eef-235925ce3b5b" />
+					<attribute id="Name" type="23" value="SUMMON_BAG" /> 
+					<attribute id="ParentTemplateId" type="22" value="f81999db-1f55-4251-8084-526cf74530e6" />
+					<attribute id="PhysicsTemplate" type="22" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+					<attribute id="ReadinessFlags" type="5" value="140" />
+					<attribute id="Stats" type="22" value="SUMMON_BAG" />
+					<attribute id="Scale" type="6" value="0.5" />	
+					<attribute id="TreasureOnDestroy" type="19" value="True" />	
+					<attribute id="Tooltip" type="1" value="2" />					
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="dad3d63a-f3d7-679f-d160-defe1a99959d" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="SUMMON_BAG_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="28" handle="h6abb7e57ga0d0g4607gbb1bg42085489c8fd" version="1" />
+					<attribute id="Description" type="28" handle="h6afa41b4g5926g41e6ga3f7ga3584478e5a7" version="1" />
+					<attribute id="Icon" type="22" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="InventoryType" type="1" value="11" />
+					<attribute id="IsInspector" type="19" value="False" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="2262fb7d-e025-432f-9f39-d01790541f44" />
+					<attribute id="Name" type="23" value="LEG_BAG_1" />
+					<attribute id="ParentTemplateId" type="22" value="f81999db-1f55-4251-8084-526cf74530e6" />
+					<attribute id="PhysicsTemplate" type="22" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+					<attribute id="ReadinessFlags" type="5" value="140" />
+					<attribute id="Scale" type="6" value="1.25" />
+					<attribute id="Stats" type="22" value="LEG_BAG_1" /> 
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="TreasureOnDestroy" type="19" value="True" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="LEG_BAG_1_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>	
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="28" handle="hbbbbdd2ag8fe4g479agabcagaf81fb744cb9" version="1" />
+					<attribute id="Description" type="28" handle="h5c37fc93g0732g428dg9016g02170532a527" version="1" />
+					<attribute id="Icon" type="22" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="InventoryType" type="1" value="11" />
+					<attribute id="IsInspector" type="19" value="False" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="2c9d5f04-6a51-40af-9c51-ccf111d4b53d" />
+					<attribute id="Name" type="23" value="LEG_BAG_2" />
+					<attribute id="ParentTemplateId" type="22" value="f81999db-1f55-4251-8084-526cf74530e6" />
+					<attribute id="PhysicsTemplate" type="22" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+					<attribute id="ReadinessFlags" type="5" value="140" />
+					<attribute id="Scale" type="6" value="1.25" />
+					<attribute id="Stats" type="22" value="LEG_BAG_2" /> 
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="TreasureOnDestroy" type="19" value="True" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="LEG_BAG_2_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>	
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="28" handle="ha7c5ed97ga89fg4a25g8411g1079e6c9c5aa" version="1" />
+					<attribute id="Description" type="28" handle="h5c312613g25ddg4770gb01ag4edeb3f147c8" version="1" />
+					<attribute id="Icon" type="22" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="InventoryType" type="1" value="24" />
+					<attribute id="CanBePickedUp" type="19" value="True" />	
+					<attribute id="IsInspector" type="19" value="False" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="8a64c664-c2ed-4be4-a467-1909a0ab6a70" />
+					<attribute id="Name" type="23" value="LEG_BAG_3" />
+					<attribute id="ParentTemplateId" type="22" value="f81999db-1f55-4251-8084-526cf74530e6" />
+					<attribute id="PhysicsTemplate" type="22" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+					<attribute id="ReadinessFlags" type="5" value="140" />
+					<attribute id="Scale" type="6" value="1.25" />
+					<attribute id="Stats" type="22" value="LEG_BAG_3" /> 
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="TreasureOnDestroy" type="19" value="True" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="LEG_BAG_3_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="0ab87731-efa2-4a15-8db1-71f096ae078c" version="1" />
+					<attribute id="DisplayName" type="28" handle="67eff79a-5e6e-4f44-b459-d75178e7ad10" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="5e004b79-461d-4617-0fbb-f0eeaee03212" />
+					<attribute id="Flag" type="4" value="0" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Glaive_A_1" />
+					<attribute id="IsInspector" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LevelOverride" type="4" value="-1" />
+					<attribute id="MapKey" type="22" value="be5274ac-36bb-4645-9b1b-6e3466e7bc78" />
+					<attribute id="Name" type="23" value="ThunderousGlaive" />
+					<attribute id="ParentTemplateId" type="22" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="PhysicsTemplate" type="22" value="6be7edb7-32fa-5df4-b3e7-84ea9ad5540a" />
+					<attribute id="Race" type="27" value="0" />
+					<attribute id="ReadinessFlags" type="5" value="144" />
+					<attribute id="Stats" type="22" value="ThunderousGlaive" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="4a5fc63e-4ed1-5b7b-c1ec-6dbac490f179" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="4" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="22" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="22" value="" />
+											<attribute id="PlayOnHUD" type="19" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="b9ef77a5-8d37-4b86-bd9a-f9eb94d17897" version="1" />
+					<attribute id="DisplayName" type="28" handle="40ca8594-3f83-49c8-9a11-7eecee54a707" version="1" />
+					<attribute id="Flag" type="4" value="0" />
+					<attribute id="Icon" type="22" value="GrippyGloves" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="f6e3a3fe-0196-435a-a53f-14974172654e" />
+					<attribute id="Name" type="23" value="GrippyGloves" />
+					<attribute id="ParentTemplateId" type="22" value="1ab3e355-c1ed-4035-8c17-4ec2a8e8850f" />
+					<attribute id="PhysicsTemplate" type="22" value="d57abb81-7bd6-41dd-b5bd-cf4fbcd33576" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="GrippyGloves" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="f8d75379-8afc-771a-d2cc-642dce282fe6" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="144115196665790466" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.438493" />
+									<attribute id="IsIgnoringScale" type="19" value="False" />
+									<attribute id="Max" type="12" value="0.2309981 0.1880548 0.223876" />
+									<attribute id="Min" type="12" value="-0.1606759 -0.007426143 -0.222559" />
+									<attribute id="Radius" type="6" value="0.355015" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.438493" />
+									<attribute id="IsIgnoringScale" type="19" value="False" />
+									<attribute id="Max" type="12" value="0.2309981 0.1880548 0.223876" />
+									<attribute id="Min" type="12" value="-0.1606759 -0.007426143 -0.222559" />
+									<attribute id="Radius" type="6" value="0.355015" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.438493" />
+									<attribute id="IsIgnoringScale" type="19" value="False" />
+									<attribute id="Max" type="12" value="0.115499 0.1880548 0.111938" />
+									<attribute id="Min" type="12" value="-0.08033796 -0.007426143 -0.1112795" />
+									<attribute id="Radius" type="6" value="0.1775075" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="5" value="1024" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="ecc1ce31-0949-d786-c4e5-1cb642d6ef0b" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="71180b76-5752-4a97-1fb7-1a911969587f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="42d78027-f02c-83f8-498f-ca88946c140d" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="6f6c7070-10fb-f2f3-97a2-8d2cbbaf0e26" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="b4a34ce7-41be-44d9-8684-8f9347e14921" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="79b5c685-ab1d-617f-a987-950fd578f8b0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="b98e3778-a8d4-55a7-7043-5a6b7efec4ae" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="8f00cf38-4588-433a-7581-cd8af3bb333f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="6a893928-fd81-2772-4717-2762db5656a5" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="5640e766-aa53-428d-5b81-0b6af94eca5a" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="643e08f5-e96b-c679-8c2c-3bf63533fa25" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="9d36b941-720f-e9d4-fc26-c92467f526a0" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h27c5ff2fgd70dg4e71ga8dag4c73148e6fcb" version="1" />
+					<attribute id="DisplayName" type="28" handle="h7985721cg9edcg4f19gae2eg48afb32970ee" version="1" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Flail_A_2" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="0da008f7-0153-41c8-8b98-77e67835059f" />
+					<attribute id="Name" type="23" value="WPN_Flail_OfPain" />
+					<attribute id="ParentTemplateId" type="22" value="9eadef92-5dd0-408e-9b55-1cf791cafe9d" />
+					<attribute id="PhysicsTemplate" type="22" value="e0f4bca7-bd5a-0035-02d1-59423e9f01bb" />
+					<attribute id="Stats" type="22" value="WPN_Flail_OfPain" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="76f75b70-d6e5-e80d-a571-2794357d446b" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h6dbf415eg8f98g45dagbf41gf8f89f0b6e40" version="1" />
+					<attribute id="DisplayName" type="28" handle="hd62e5540g163fg4a95gb9cag4660ba613356" version="1" />
+					<attribute id="DropSound" type="22" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="Icon" type="22" value="RingOfFire_ICON" />
+					<attribute id="ImpactSound" type="22" value="fa6145a3-f95d-60a9-9583-ba601bc3a583" />
+					<attribute id="InventoryMoveSound" type="22" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="c22e2c71-79b4-4268-82b3-9f9fafc2be10" />
+					<attribute id="Name" type="23" value="ARM_RingOfFire" />
+					<attribute id="ParentTemplateId" type="22" value="0af630e0-82eb-4b83-baa2-e296f97a7a4e" />
+					<attribute id="PhysicsTemplate" type="22" value="b0e5dc41-e2a0-7454-b5bd-c1411aafc154" />
+					<attribute id="PickupSound" type="22" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="ARM_RingOfFire" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="d852f1eb-c370-0f12-0325-0fb2103085c1" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="he334c657gf590g41c0gb6fagfbe3704f8215" version="1" />
+					<attribute id="DisplayName" type="28" handle="hb2b9bb20gb303g404bg897eg97d9c03be65e" version="1" />
+					<attribute id="DropSound" type="22" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="Icon" type="22" value="RingOfIce_ICON" />
+					<attribute id="ImpactSound" type="22" value="fa6145a3-f95d-60a9-9583-ba601bc3a583" />
+					<attribute id="InventoryMoveSound" type="22" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="8600cb17-ecd9-4ae2-a08c-028e25001a0a" />
+					<attribute id="Name" type="23" value="ARM_RingOfIce" />
+					<attribute id="ParentTemplateId" type="22" value="0af630e0-82eb-4b83-baa2-e296f97a7a4e" />
+					<attribute id="PhysicsTemplate" type="22" value="b0e5dc41-e2a0-7454-b5bd-c1411aafc154" />
+					<attribute id="PickupSound" type="22" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="ARM_RingOfIce" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="d852f1eb-c370-0f12-0325-0fb2103085c1" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="h40f310bfga9eag4e2dgafb2gbbda7055f0a5" version="1" />
+					<attribute id="DisplayName" type="28" handle="hfba19e38g54a2g45fbgab53gccca58709beb" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="b428632e-3137-47aa-8fae-ffddc26fc87c" />
+					<attribute id="Icon" type="22" value="Item_WPN_GOB_Staff_A" />
+					<attribute id="IsInspector" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LevelOverride" type="32" value="-1" />
+					<attribute id="MapKey" type="22" value="e35a5a7d-25ad-4f50-8888-56769c950693" />
+					<attribute id="Name" type="23" value="WPN_StaffOfSlumber" />
+					<attribute id="ParentTemplateId" type="22" value="c5a790b2-d66c-48af-8471-da98a4f47730" />
+					<attribute id="PhysicsTemplate" type="22" value="b8916c0b-7201-8ebf-60dc-1b88f53ff0db" />
+					<attribute id="ReadinessFlags" type="5" value="133" />
+					<attribute id="Stats" type="22" value="WPN_StaffOfSlumber" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="b42997b2-e780-fef2-41c3-2598d66375ad" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.046017" />
+									<attribute id="Max" type="12" value="0.456299 0.215597 0.5497787" />
+									<attribute id="Min" type="12" value="-0.24078 -0.215597 -1.771932" />
+									<attribute id="Radius" type="6" value="0.5715418" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.046017" />
+									<attribute id="Max" type="12" value="0.456299 0.215597 0.5497787" />
+									<attribute id="Min" type="12" value="-0.24078 -0.215597 -1.771932" />
+									<attribute id="Radius" type="6" value="0.5715418" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.046017" />
+									<attribute id="Max" type="12" value="0.456299 0.215597 0.5497787" />
+									<attribute id="Min" type="12" value="-0.24078 -0.215597 -1.771932" />
+									<attribute id="Radius" type="6" value="0.5715418" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="hac183187g3d25g47f5g8c34gf5dfe201a57a" version="1" />
+					<attribute id="DisplayName" type="28" handle="h7163c6d1gb2ffg42a0gbfa5g2fbef86e258b" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="896f8a20-7dda-4bff-26b7-c308ccda7bcc" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Battleaxe_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="76ce0198-226b-4890-a215-3278b4fa0391" />
+					<attribute id="Name" type="23" value="WPN_DoomAxe" />
+					<attribute id="ParentTemplateId" type="22" value="a086b825-8f17-4f0e-855b-178f8cdc515a" />
+					<attribute id="PhysicsTemplate" type="22" value="28e2f700-27da-4487-a411-7b39a39b2c69" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="WPN_DoomAxe" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="7f74087b-665e-0745-5aef-4ee75a995512" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.0483273" />
+									<attribute id="Max" type="12" value="0.2821862 0.04355885 0.3097121" />
+									<attribute id="Min" type="12" value="-0.2749769 -0.02270286 -0.8038933" />
+									<attribute id="Radius" type="6" value="0.182241" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.0483273" />
+									<attribute id="Max" type="12" value="0.1147598 0.0561219 0.1368826" />
+									<attribute id="Min" type="12" value="-0.1211914 0 -0.3347144" />
+									<attribute id="Radius" type="6" value="0.0911205" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.0483273" />
+									<attribute id="Max" type="12" value="0.2295196 0.0561219 0.2737652" />
+									<attribute id="Min" type="12" value="-0.2423827 0 -0.6694288" />
+									<attribute id="Radius" type="6" value="0.182241" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="hf31cf50egd979g49a7g8914g6f5f8d140972" version="1" />
+					<attribute id="DisplayName" type="28" handle="hd13a1311g81bfg41bcgb640ge442984803f4" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="8ac2eb82-8563-4657-4c8c-07153957d778" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Greatsword_A_2" />
+					<attribute id="IsInspector" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LevelOverride" type="32" value="-1" />
+					<attribute id="MapKey" type="22" value="0db53c2f-037e-4fa3-a018-3b489e112c4d" />
+					<attribute id="Name" type="23" value="WPN_SwordOfIce" />
+					<attribute id="ParentTemplateId" type="22" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="PhysicsTemplate" type="22" value="f7a9b81c-f4b5-fe8d-e13c-c39665436596" />
+					<attribute id="ReadinessFlags" type="5" value="132" />
+					<attribute id="Stats" type="22" value="WPN_SwordOfIce" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="3f21a54d-9731-6b12-4bde-430be278c9dd" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="22" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="22" value="" />
+											<attribute id="PlayOnHUD" type="19" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h44978df8g1338g42b6ga5d1g6f6de5aa2ae9" version="1" />
+					<attribute id="DisplayName" type="28" handle="h6f8f8c94g94e5g456bg96eag1160011e7513" version="1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="6efd410c-2f3f-46a5-a28b-d2d912fcb622" />
+					<attribute id="Name" type="23" value="PowerRing" />
+					<attribute id="ParentTemplateId" type="22" value="bab95f06-fcff-42f5-beb8-7c694eae8545" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="PowerRing" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h8bbf8c86gb8f9g442ega4acg929cc45a995d" version="1" />
+					<attribute id="DisplayName" type="28" handle="hefe2da47g9b4fg40fdga900ga3e4c1ab6d03" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="ab54402e-d3f3-497d-819b-9b51af1827b8" />
+					<attribute id="Flag" type="32" value="0" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="4b0235fb-fd2b-432e-a90d-9a5610292d29" />
+					<attribute id="Name" type="23" value="Hungering_Hammer" />
+					<attribute id="ParentTemplateId" type="22" value="6b17998d-2e79-405d-8b1f-beb53658312f" />
+					<attribute id="PhysicsTemplate" type="22" value="25fea44b-204b-c9d7-b4cc-f5d7db780170" />
+					<attribute id="Stats" type="22" value="Hungering_Hammer" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="2d2422fb-7e15-0faf-8687-6809bedcccf7" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="22" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="22" value="" />
+											<attribute id="PlayOnHUD" type="19" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="hcd4dd757g77cag49beg968fgec5334c1d997" version="1" />
+					<attribute id="DisplayName" type="28" handle="h2ed2b143g8696g4b10gaaadg63abaf5c36bf" version="1" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Rapier_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="3ac6ddeb-533b-4991-b2f6-d551ffc52424" />
+					<attribute id="Name" type="23" value="WPN_VENOM" />
+					<attribute id="ParentTemplateId" type="22" value="7061f489-4b13-4982-aa09-cf0ad961e75f" />
+					<attribute id="PhysicsTemplate" type="22" value="e468111b-b6c4-35c7-404b-5da181ecd13f" />
+					<attribute id="Stats" type="22" value="WPN_VENOM" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="c73e3532-d9f1-6543-fa4e-2e57db45ed9b" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h69edb82bgd94ag431ag9e8egca2532cceb04" version="1" />
+					<attribute id="DisplayName" type="28" handle="h47610189g5aa5g4fc7gaca0g3fef656d5b7f" version="1" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Dagger_A_2" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="1e528311-c588-49e9-a36c-83d59954d97a" />
+					<attribute id="Name" type="23" value="WPN_CRIPPLING_DAGGER" />
+					<attribute id="ParentTemplateId" type="22" value="c68026c8-8af9-4a05-b77a-246a01bafe61" />
+					<attribute id="PhysicsTemplate" type="22" value="ed38fffa-52ba-686f-c008-11bf93d0e793" />
+					<attribute id="Stats" type="22" value="WPN_CRIPPLING_DAGGER" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="98ddc4a9-d74b-46d0-c714-3e4e1c3650f9" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h830a3855g6353g490fg93e9g4972ef433d95" version="1" />
+					<attribute id="DisplayName" type="28" handle="h61fe2181g3befg4205g820bg528b19c5dd0d" version="1" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_HandCrossbow_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="c05ecb7b-49ae-4c5a-bc35-3361723cabe9" />
+					<attribute id="Name" type="23" value="WPN_CROSSBOW_OF_GREAT_RANGE" />
+					<attribute id="ParentTemplateId" type="22" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
+					<attribute id="PhysicsTemplate" type="22" value="b3ff07ed-e959-7a17-6a62-07bdbf9ec23d" />
+					<attribute id="Stats" type="22" value="WPN_CROSSBOW_OF_GREAT_RANGE" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="7c87c4aa-5597-ce62-795b-e5a249383618" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h2f898868g5517g49bfg84acg709f42341b53" version="1" />
+					<attribute id="DisplayName" type="28" handle="h21451838geb2fg493fgb7cdgf3ce8ef989f4" version="1" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_HandCrossbow_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="ac9a6880-b48c-4bf5-bed4-cd3e978b8593" />
+					<attribute id="Name" type="23" value="WPN_CROSSBOW_OF_MANY_BOLTS" />
+					<attribute id="ParentTemplateId" type="22" value="a5d843ab-c3af-4e60-a925-bb2e15828938" />
+					<attribute id="PhysicsTemplate" type="22" value="b3ff07ed-e959-7a17-6a62-07bdbf9ec23d" />
+					<attribute id="Stats" type="22" value="WPN_CROSSBOW_OF_MANY_BOLTS" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="7c87c4aa-5597-ce62-795b-e5a249383618" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="h6a44a60agb6d5g4376g954ag282e3ab28765" version="1" />
+					<attribute id="DisplayName" type="28" handle="h55984cd6gd666g477dg8ffcgad02cdbdfc83" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="fac6dd3a-6ceb-40fc-e891-396f3cc38ad9" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Shield_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="a1589c29-1a25-44c6-b182-e972fd3f1cc0" />
+					<attribute id="Name" type="23" value="ARM_Shield_Of_Blocking" />
+					<attribute id="ParentTemplateId" type="22" value="cb2d6c27-ec29-4555-adf2-41e8c1952439" />
+					<attribute id="PhysicsTemplate" type="22" value="8f464a06-cdcb-c7cf-70a6-cf8df0d3c964" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="ARM_Shield_Of_Blocking" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="57151b84-6884-d9ab-9e27-f9f2949d49fd" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.4317623 0.1223037 0.4485397" />
+									<attribute id="Min" type="12" value="-0.3443834 -0.05094159 -0.3276228" />
+									<attribute id="Radius" type="6" value="0.284509" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.1868525 -0.00193 0.177501" />
+									<attribute id="Min" type="12" value="-0.1868525 0.1391077 -0.17847" />
+									<attribute id="Radius" type="6" value="0.1422545" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.373705 -0.00193 0.355002" />
+									<attribute id="Min" type="12" value="-0.373705 0.1391077 -0.35694" />
+									<attribute id="Radius" type="6" value="0.284509" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="hebd0ca34gffd9g4125g9d08g277e1888bf9e" version="1" />
+					<attribute id="DisplayName" type="28" handle="had856bc9gb3dbg4692gbaccg5d80ae89ed4d" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="fac6dd3a-6ceb-40fc-e891-396f3cc38ad9" />
+					<attribute id="Flag" type="32" value="0" />
+					<attribute id="Icon" type="22" value="Item_WPN_HUM_Shield_E_0" />
+					<attribute id="IsInspector" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LevelOverride" type="32" value="-1" />
+					<attribute id="MapKey" type="22" value="6fe6ef42-6d0b-4008-8f19-f055609081da" />
+					<attribute id="Name" type="23" value="ARM_Shield_Of_Deflection" />
+					<attribute id="ParentTemplateId" type="22" value="cb2d6c27-ec29-4555-adf2-41e8c1952439" />
+					<attribute id="PhysicsTemplate" type="22" value="1a4fb325-adbd-4c31-92af-69fc7850f42d" />
+					<attribute id="Race" type="27" value="0" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="ARM_Shield_Of_Deflection" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="c498d10b-6004-4832-899e-8691ee281e33" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.293705 0.14807 0.725002" />
+									<attribute id="Min" type="12" value="-0.303705 0.0291077 -0.37694" />
+									<attribute id="Radius" type="6" value="0.284509" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.293705 0.14807 0.725002" />
+									<attribute id="Min" type="12" value="-0.303705 0.0291077 -0.37694" />
+									<attribute id="Radius" type="6" value="0.284509" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.218963" />
+									<attribute id="Max" type="12" value="0.1468525 0.14807 0.362501" />
+									<attribute id="Min" type="12" value="-0.1518525 0.0291077 -0.18847" />
+									<attribute id="Radius" type="6" value="0.1422545" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="22" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="22" value="" />
+											<attribute id="PlayOnHUD" type="19" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="h948a7104gc50dg4af7gacd1gea13dcc6890a" version="1" />
+					<attribute id="DisplayName" type="28" handle="h08a6549dg5a5eg443dga7e2gc6a18b70a01b" version="1" />
+					<attribute id="Icon" type="22" value="Item_ARM_ChainShirt_Shar" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="5bfee1cd-8f25-456f-9a22-f2c8ee044239" />
+					<attribute id="Name" type="23" value="Sharmour" />
+					<attribute id="ParentTemplateId" type="22" value="921cd1e1-c39c-44c3-a090-b667322af7f8" />
+					<attribute id="Stats" type="22" value="Sharmour" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="5" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="22" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="22" value="" />
+									<attribute id="ShowEquipmentVisuals" type="19" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="22" value="" />
+											<children>
+												<node id="ColorPreset">
+													<attribute id="ForcePresetValues" type="19" value="True" />
+													<attribute id="GroupName" type="22" value="02 Colour" />
+													<attribute id="MaterialPresetResource" type="22" value="bb00ce7f-e8e6-7118-6fba-b2bfb2fd472a" />
+												</node>
+												<node id="MaterialPresets" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="8dff453e-26d2-a6aa-4447-a1ee3141fb24" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="c78245f1-69f3-36e9-f1d2-93b9f74868d6" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f0d258d2-e455-8c1e-cd8d-90e32862c559" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="71180b76-5752-4a97-1fb7-1a911969587f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="46d2d271-a292-6511-ab69-b5b3fb8d4732" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="d04cf0d3-e776-852c-afa8-dc9d191578c4" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="c80e582d-0f68-62a3-bc89-5738d2000319" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="5873cb2e-03f9-ace2-0791-017db3a42598" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="5d7dc866-dda5-b2e5-d39f-899422f3e11c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="64ab37be-810e-79c7-d54c-a3cb3add0ba8" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="b4a34ce7-41be-44d9-8684-8f9347e14921" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="b0e1ead5-5a4e-e923-e458-de3da86fa6c6" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="75a7f648-d235-6934-d64c-dd23c3a51ec6" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f84cf9f9-1f48-d659-274c-730e4e83844d" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f1bc3404-47c5-e273-01af-c9eb10e30da8" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="48f48d0e-b3a2-4844-4fb9-f6fbbcff1cb6" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="2403a22b-d5ba-76bf-f804-0c829d8ef88c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="8f00cf38-4588-433a-7581-cd8af3bb333f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="5cb32421-67a7-40ef-d1dc-a2710a854933" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="9d64a884-df89-b752-0002-24e6d6f6390d" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="6ae7dab9-20f3-c217-a4c9-bebdfbb3cdd5" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="5640e766-aa53-428d-5b81-0b6af94eca5a" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="b065167f-9b33-1035-b3b3-59fe5e209f64" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="8ec32122-d941-cfcd-0f08-3e8c8547ec71" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="9af60b2f-38a6-555e-b10e-53fb6889c338" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="90331c11-bede-e933-ad3b-23604875e110" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="01dfd3ac-be73-4be0-a503-bfd658f21494" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="7fa9cc42-d550-919d-7d17-6eb81af620ed" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="19" value="False" />
+					<attribute id="CanClimbOn" type="19" value="False" />
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="CoverAmount" type="1" value="0" />
+					<attribute id="Description" type="28" handle="h9c14c263g834cg4918g9a13gbdb1baa29844" version="1" />
+					<attribute id="DisplayName" type="28" handle="h972be674ga19eg43b7ga928g3b3ab6d62a74" version="1" />
+					<attribute id="DropSound" type="22" value="61e89d62-d151-afb2-5c0f-6420a72debfb" />
+					<attribute id="EquipSound" type="22" value="4be7393e-909d-af74-1d02-85caf412cac4" />
+					<attribute id="Icon" type="22" value="Item_UNI_Druid_Helmet_Circlet" />
+					<attribute id="ImpactSound" type="22" value="7d307c44-f48a-ab59-18e4-77ae9bcfedd6" />
+					<attribute id="InventoryMoveSound" type="22" value="61e89d62-d151-afb2-5c0f-6420a72debfb" />
+					<attribute id="IsPointerBlocker" type="19" value="False" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LoopSound" type="22" value="" />
+					<attribute id="MapKey" type="22" value="8ef5c25a-b9ec-45c7-9028-9808d2b8c9ed" />
+					<attribute id="Name" type="23" value="ThornedCircletOfHealing" />
+					<attribute id="ParentTemplateId" type="22" value="348b0f52-8960-43e0-ae38-c1d3b1974c3f" />
+					<attribute id="PickupSound" type="22" value="4be7393e-909d-af74-1d02-85caf412cac4" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="SoundAttenuation" type="2" value="-1" />
+					<attribute id="SoundInitEvent" type="22" value="" />
+					<attribute id="Stats" type="22" value="ThornedCircletOfHealing" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="UnequipSound" type="22" value="61e89d62-d151-afb2-5c0f-6420a72debfb" />
+					<attribute id="VisualTemplate" type="22" value="a3b0a807-d6b6-86db-1ee8-87c9f57d860d" />
+					<attribute id="Wadable" type="19" value="False" />
+					<attribute id="WalkOn" type="19" value="False" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="5" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="22" value="Headwear" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="22" value="Hair" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="22" value="" />
+									<attribute id="ShowEquipmentVisuals" type="19" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="22" value="" />
+											<children>
+												<node id="ColorPreset">
+													<attribute id="ForcePresetValues" type="19" value="True" />
+													<attribute id="GroupName" type="22" value="02 Colour" />
+													<attribute id="MaterialPresetResource" type="22" value="7fdb1bf1-458e-47e5-292a-49bac423d981" />
+												</node>
+												<node id="MaterialPresets" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="7d73f501-f65e-46af-3ba1-ac2c98f3055d" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f8cd4bf4-502d-6381-ef65-7021b1b473cb" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="71180b76-5752-4a97-1fb7-1a911969587f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f3ecaea1-8417-fb2d-c06d-a3c9b6eb7d90" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="9d89ee02-9049-e918-694a-761fbaece39e" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="b4a34ce7-41be-44d9-8684-8f9347e14921" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f54a8a8a-a0ce-3ec7-8792-fe5a6b791e07" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="a933e2a8-aee1-4ecb-d280-478f06b724f0" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="4d532281-001c-959b-8e6b-4e95d8d6c01e" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="8f00cf38-4588-433a-7581-cd8af3bb333f" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="c608df62-bec9-0fe8-e120-3ddacc02f548" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="5640e766-aa53-428d-5b81-0b6af94eca5a" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="9a2b3d8f-7d71-ed86-7f37-a1882041a01e" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="31" value="c491d027-4332-4fda-8f94-3d4a77f6aa2b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="22" value="f1c4e431-8499-dee8-090b-f48cd26685cf" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="28" handle="hf66ea2bag1606g4b0cg9c87g8ce6158ccfa5" version="1" />
+					<attribute id="DisplayName" type="28" handle="h73f90216g71aag46ecg919eg573811ccff6d" version="1" />
+					<attribute id="EquipmentTypeID" type="31" value="edda8fbb-6456-4514-ccb3-a23667bc314c" />
+					<attribute id="Icon" type="22" value="WPN_HUM_HeavyCrossbow_A_1" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="fc1fe12b-b306-4747-8c52-05c5b287a256" />
+					<attribute id="Name" type="23" value="WPN_RepeatingCrossbow" />
+					<attribute id="ParentTemplateId" type="22" value="04622e3d-5b3f-4f2c-a0db-513a717d911f" />
+					<attribute id="PhysicsTemplate" type="22" value="2228c005-70d0-1f7d-d1f1-9ae92cd634dd" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="WPN_RepeatingCrossbow" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="8586f0d9-f26b-af35-9f30-c52c1791940e" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.1651945" />
+									<attribute id="Max" type="12" value="0.3311484 0.1638701 0.5730988" />
+									<attribute id="Min" type="12" value="-0.3311484 -0.001324341 -0.3419698" />
+									<attribute id="Radius" type="6" value="0.2854029" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.1651945" />
+									<attribute id="Max" type="12" value="0.1655742 0.1638701 0.2865494" />
+									<attribute id="Min" type="12" value="-0.1655742 -0.001324341 -0.1709849" />
+									<attribute id="Radius" type="6" value="0.1427014" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="0.1651945" />
+									<attribute id="Max" type="12" value="0.3311484 0.1638701 0.5730988" />
+									<attribute id="Min" type="12" value="-0.3311484 -0.001324341 -0.3419698" />
+									<attribute id="Radius" type="6" value="0.2854029" />
+									<attribute id="Shape" type="1" value="1" />
+									<attribute id="Type" type="1" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="19" value="True" />
+					<attribute id="Description" type="28" handle="h655022a9g5933g406bga09ag1cb25292e1b5" version="2" />
+					<attribute id="DisplayName" type="28" handle="he89d30bfg9805g4005ga28ege355e1cb7456" version="2" />
+					<attribute id="EquipmentTypeID" type="31" value="f85002a2-8e0e-4a49-0faa-2ef57d983a3a" />
+					<attribute id="IsInspector" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LevelOverride" type="32" value="-1" />
+					<attribute id="MapKey" type="22" value="7d7a083d-8bcc-4dca-9efa-0a83818787cb" />
+					<attribute id="Name" type="23" value="WPN_DragonBlade" />
+					<attribute id="ParentTemplateId" type="22" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="PhysicsTemplate" type="22" value="04e52de8-3bc3-5321-ddf4-bd6863ab80e9" />
+					<attribute id="ReadinessFlags" type="5" value="128" />
+					<attribute id="Stats" type="22" value="WPN_DragonBlade" />
+					<attribute id="Tooltip" type="1" value="2" />
+					<attribute id="Type" type="22" value="item" />
+					<attribute id="VisualTemplate" type="22" value="910f74da-8b12-9762-1e97-f6f3457d80de" />
+					<attribute id="WalkThrough" type="19" value="True" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="22" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="22" value="" />
+											<attribute id="PlayOnHUD" type="19" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="22" value="DefaultMonster" />
+					<attribute id="BloodType" type="22" value="Red" />
+					<attribute id="CharacterVisualResourceID" type="22" value="baa20049-2ec2-07a7-b4d6-02a38b25d6ac" />
+					<attribute id="Flag" type="32" value="0" />
+					<attribute id="GeneratePortrait" type="23" value="Icon_Dragon" />
+					<attribute id="Icon" type="22" value="baa20049-2ec2-07a7-b4d6-02a38b25d6ac-_(Icon_Dragon)" />
+					<attribute id="IsLootable" type="19" value="True" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="LightID" type="22" value="782d9d58-f4c5-4500-a16e-b81d737bcc53" />
+					<attribute id="MapKey" type="22" value="4915819f-0ed8-4cac-8b95-fa079e15235c" />
+					<attribute id="Name" type="23" value="Summon_Dragon" />
+					<attribute id="ParentTemplateId" type="22" value="29ad5160-21d6-4e0b-9073-4fdee590f62f" />
+					<attribute id="PhysicsTemplate" type="22" value="3c6193a8-3a1a-c40e-1e69-f2c98682bd38" />
+					<attribute id="Race" type="31" value="eed2c9e5-d1b4-4010-c499-960e9893a067" />
+					<attribute id="Stats" type="22" value="Dragon_AdultRed" />
+					<attribute id="Scale" type="6" value="0.5" />
+					<attribute id="Type" type="22" value="character" />
+					<attribute id="_OriginalFileVersion_" type="32" value="107374187275855912" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="6" value="2.6988015" />
+									<attribute id="Max" type="12" value="8.54792 2.8312235 7.297815" />
+									<attribute id="Min" type="12" value="-8.54792 -0.03142762 -3.893631" />
+									<attribute id="Radius" type="6" value="2.0107" />
+									<attribute id="Shape" type="1" value="2" />
+									<attribute id="Type" type="1" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams">
+							<attribute id="MovementStepUpHeight" type="6" value="2.1" />
+							<attribute id="MaxDashDistance" type="6" value="3" />
+							<attribute id="MovementSpeedDash" type="6" value="8" />
+							<attribute id="MovementSpeedSprint" type="6" value="8" />
+							<attribute id="MovementTiltToRemap" type="22" value="" />
+						</node>
+						<node id="PickingPhysics">
+							<children>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="22" value="CharacterDeadPicking" />
+									<attribute id="MapValue" type="22" value="4ddf2cdf-7ee2-1248-3780-0c36ee5e21b3" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="22" value="CharacterSittingPicking" />
+									<attribute id="MapValue" type="22" value="0221b6a7-3aff-f8c6-e6c3-6733f879ffdb" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="22" value="CharacterLyingPicking" />
+									<attribute id="MapValue" type="22" value="95087e30-7b8a-61f3-09df-f5db2fb26313" />
+								</node>
+							</children>
+						</node>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Projectile_ScorchingRay_Dragon" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Target_EtherealJaunt" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Zone_DragonSwipe" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Projectile_FireBolt_Dragon" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Zone_DragonBreath" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="1" value="0" />
+									<attribute id="CasualExplorer" type="19" value="True" />
+									<attribute id="Classic" type="19" value="True" />
+									<attribute id="HonorHardcore" type="19" value="True" />
+									<attribute id="LearningStrategy" type="1" value="0" />
+									<attribute id="MinimumImpact" type="32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="19" value="False" />
+									<attribute id="ScoreModifier" type="6" value="1" />
+									<attribute id="Skill" type="22" value="Target_Dragon_Bite" />
+									<attribute id="SpellCastinAbility" type="1" value="0" />
+									<attribute id="StartRound" type="32" value="0" />
+									<attribute id="TacticianHardcore" type="19" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

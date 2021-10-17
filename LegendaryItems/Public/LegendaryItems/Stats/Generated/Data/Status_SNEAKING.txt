@@ -1,0 +1,13 @@
+new entry "SNEAKING"
+type "StatusData"
+data "StatusType" "SNEAKING"
+data "DisplayName" "Status_SNEAKING_SNEAKING_DisplayName"
+data "Description" "Status_SNEAKING_SNEAKING_Description"
+data "Icon" "Action_Hide"
+data "StillAnimationType" "Sneaking"
+data "StillAnimationPriority" "Sneaking"
+data "Boosts" "Advantage(AttackRoll);MovementSpeedLimit(Walk),UnlockSpell(Target_Summon_Loot)"
+data "RemoveConditions" "IsStatusEvent(StatusEvent.OnAttack) or (IsStatusEvent(StatusEvent.OnDamage) and TotalDamageDoneGreaterThan(0))"
+data "RemoveEvents" "OnAttack;OnDamage"
+data "StatusPropertyFlags" "DisableOverhead"
+
